@@ -1,0 +1,441 @@
+p.kladbox 
+{
+	position: relative;
+	align: center;
+	border: 3px solid grey;
+	margin-top: 5%;
+	margin-left: 10%;
+	height: 550px;
+	width: 1500px;
+}
+.Ding1 {
+	position: absolute;
+    bottom: 130px;
+    right: 190px;
+	background-color: #020081;
+    color: #FFFFFF;
+    padding: 20px;
+    font-size: 28px;
+    border: none;
+    cursor: pointer;
+	width: 25%;
+	transition: all 0.5s;
+	display: inline-block;
+	border-radius: 4px;
+	text-align: center; 
+}
+
+.Ding1 span {
+  cursor: pointer;
+  display: inline-block;
+  position: relative;
+  transition: 0.5s;
+}
+.Ding1 a {
+	color: white;
+}
+
+.Ding1 span:after {
+  content: '»';
+  position: absolute;
+  opacity: 0;
+  top: 0;
+  right: -20px;
+  transition: 0.5s;
+}
+
+.Ding1:hover span {
+  padding-right: 25px;
+}
+
+.Ding1:hover span:after {
+  opacity: 1;
+  right: 10;
+}Ding2 {
+	position: absolute;
+    bottom: 130px;
+    right: 190px;
+	background-color: #020081;
+    color: #FFFFFF;
+    padding: 20px;
+    font-size: 28px;
+    border: none;
+    cursor: pointer;
+	width: 25%;
+	transition: all 0.5s;
+	display: inline-block;
+	border-radius: 4px;
+	text-align: center; 
+}
+
+.Ding2 span {
+  cursor: pointer;
+  display: inline-block;
+  position: relative;
+  transition: 0.5s;
+}
+.Ding2 a {
+	color: white;
+}
+
+.Ding2 span:after {
+  content: '»';
+  position: absolute;
+  opacity: 0;
+  top: 0;
+  right: -20px;
+  transition: 0.5s;
+}
+
+.Ding2:hover span {
+  padding-right: 25px;
+}
+
+.Ding2:hover span:after {
+  opacity: 1;
+  right: 10;
+}Ding3 {
+	position: absolute;
+    bottom: 130px;
+    right: 190px;
+	background-color: #020081;
+    color: #FFFFFF;
+    padding: 20px;
+    font-size: 28px;
+    border: none;
+    cursor: pointer;
+	width: 25%;
+	transition: all 0.5s;
+	display: inline-block;
+	border-radius: 4px;
+	text-align: center; 
+}
+
+.Ding3 span {
+  cursor: pointer;
+  display: inline-block;
+  position: relative;
+  transition: 0.5s;
+}
+.Ding3 a {
+	color: white;
+}
+
+.Ding3 span:after {
+  content: '»';
+  position: absolute;
+  opacity: 0;
+  top: 0;
+  right: -20px;
+  transition: 0.5s;
+}
+
+.Ding3:hover span {
+  padding-right: 25px;
+}
+
+.Ding3:hover span:after {
+  opacity: 1;
+  right: 10;
+}Ding4 {
+	position: absolute;
+    bottom: 130px;
+    right: 190px;
+	background-color: #020081;
+    color: #FFFFFF;
+    padding: 20px;
+    font-size: 28px;
+    border: none;
+    cursor: pointer;
+	width: 25%;
+	transition: all 0.5s;
+	display: inline-block;
+	border-radius: 4px;
+	text-align: center; 
+}
+
+.Ding4 span {
+  cursor: pointer;
+  display: inline-block;
+  position: relative;
+  transition: 0.5s;
+}
+.Ding4 a {
+	color: white;
+}
+
+.Ding4 span:after {
+  content: '»';
+  position: absolute;
+  opacity: 0;
+  top: 0;
+  right: -20px;
+  transition: 0.5s;
+}
+
+.Ding4:hover span {
+  padding-right: 25px;
+}
+
+.Ding4:hover span:after {
+  opacity: 1;
+  right: 10;
+}Ding5 {
+	position: absolute;
+    bottom: 130px;
+    right: 190px;
+	background-color: #020081;
+    color: #FFFFFF;
+    padding: 20px;
+    font-size: 28px;
+    border: none;
+    cursor: pointer;
+	width: 25%;
+	transition: all 0.5s;
+	display: inline-block;
+	border-radius: 4px;
+	text-align: center; 
+}
+
+.Ding5 span {
+  cursor: pointer;
+  display: inline-block;
+  position: relative;
+  transition: 0.5s;
+}
+.Ding5 a {
+	color: white;
+}
+
+.Ding5 span:after {
+  content: '»';
+  position: absolute;
+  opacity: 0;
+  top: 0;
+  right: -20px;
+  transition: 0.5s;
+}
+
+.Ding5:hover span {
+  padding-right: 25px;
+}
+
+.Ding5:hover span:after {
+  opacity: 1;
+  right: 10;
+}Ding6 {
+	position: absolute;
+    bottom: 130px;
+    right: 190px;
+	background-color: #020081;
+    color: #FFFFFF;
+    padding: 20px;
+    font-size: 28px;
+    border: none;
+    cursor: pointer;
+	width: 25%;
+	transition: all 0.5s;
+	display: inline-block;
+	border-radius: 4px;
+	text-align: center; 
+}
+
+.Ding6 span {
+  cursor: pointer;
+  display: inline-block;
+  position: relative;
+  transition: 0.5s;
+}
+.Ding6 a {
+	color: white;
+}
+
+.Ding6 span:after {
+  content: '»';
+  position: absolute;
+  opacity: 0;
+  top: 0;
+  right: -20px;
+  transition: 0.5s;
+}
+
+.Ding6:hover span {
+  padding-right: 25px;
+}
+
+.Ding6:hover span:after {
+  opacity: 1;
+  right: 10;
+}Ding7 {
+	position: absolute;
+    bottom: 130px;
+    right: 190px;
+	background-color: #020081;
+    color: #FFFFFF;
+    padding: 20px;
+    font-size: 28px;
+    border: none;
+    cursor: pointer;
+	width: 25%;
+	transition: all 0.5s;
+	display: inline-block;
+	border-radius: 4px;
+	text-align: center; 
+}
+
+.Ding7 span {
+  cursor: pointer;
+  display: inline-block;
+  position: relative;
+  transition: 0.5s;
+}
+.Ding7 a {
+	color: white;
+}
+
+.Ding7 span:after {
+  content: '»';
+  position: absolute;
+  opacity: 0;
+  top: 0;
+  right: -20px;
+  transition: 0.5s;
+}
+
+.Ding7:hover span {
+  padding-right: 25px;
+}
+
+.Ding7:hover span:after {
+  opacity: 1;
+  right: 10;
+}Ding8 {
+	position: absolute;
+    bottom: 130px;
+    right: 190px;
+	background-color: #020081;
+    color: #FFFFFF;
+    padding: 20px;
+    font-size: 28px;
+    border: none;
+    cursor: pointer;
+	width: 25%;
+	transition: all 0.5s;
+	display: inline-block;
+	border-radius: 4px;
+	text-align: center; 
+}
+
+.Ding8 span {
+  cursor: pointer;
+  display: inline-block;
+  position: relative;
+  transition: 0.5s;
+}
+.Ding8 a {
+	color: white;
+}
+
+.Ding8 span:after {
+  content: '»';
+  position: absolute;
+  opacity: 0;
+  top: 0;
+  right: -20px;
+  transition: 0.5s;
+}
+
+.Ding8:hover span {
+  padding-right: 25px;
+}
+
+.Ding8:hover span:after {
+  opacity: 1;
+  right: 10;
+}Ding9 {
+	position: absolute;
+    bottom: 130px;
+    right: 190px;
+	background-color: #020081;
+    color: #FFFFFF;
+    padding: 20px;
+    font-size: 28px;
+    border: none;
+    cursor: pointer;
+	width: 25%;
+	transition: all 0.5s;
+	display: inline-block;
+	border-radius: 4px;
+	text-align: center; 
+}
+
+.Ding9 span {
+  cursor: pointer;
+  display: inline-block;
+  position: relative;
+  transition: 0.5s;
+}
+.Ding9 a {
+	color: white;
+}
+
+.Ding9 span:after {
+  content: '»';
+  position: absolute;
+  opacity: 0;
+  top: 0;
+  right: -20px;
+  transition: 0.5s;
+}
+
+.Ding9:hover span {
+  padding-right: 25px;
+}
+
+.Ding9:hover span:after {
+  opacity: 1;
+  right: 10;
+}Ding10 {
+	position: absolute;
+    bottom: 130px;
+    right: 190px;
+	background-color: #020081;
+    color: #FFFFFF;
+    padding: 20px;
+    font-size: 28px;
+    border: none;
+    cursor: pointer;
+	width: 25%;
+	transition: all 0.5s;
+	display: inline-block;
+	border-radius: 4px;
+	text-align: center; 
+}
+
+.Ding10 span {
+  cursor: pointer;
+  display: inline-block;
+  position: relative;
+  transition: 0.5s;
+}
+.Ding10 a {
+	color: white;
+}
+
+.Ding10 span:after {
+  content: '»';
+  position: absolute;
+  opacity: 0;
+  top: 0;
+  right: -20px;
+  transition: 0.5s;
+}
+
+.Ding10:hover span {
+  padding-right: 25px;
+}
+
+.Ding10:hover span:after {
+  opacity: 1;
+  right: 10;
+}
