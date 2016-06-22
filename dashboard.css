@@ -36,11 +36,11 @@ body
 	/*background-image: url("Oranje.png");*/
 	/*background-image: url("Space.jpg");*/
 	/*background-image: url("Space2.jpg");*/
-	/*background-image: url("17.gif");*/
-	background-image: url("pattern2.png");
+	background-image: url("17.gif");
+	/*background-image: url("pattern2.png");*/
 	/*background:#f9f9f9 url(../images/white_texture.jpg) repeat top left;*/
-	background-repeat:repeat;
-	/*background-size:cover;*/
+	background-repeat:no-repeat;
+	background-size:cover;
 }
 
 .k
