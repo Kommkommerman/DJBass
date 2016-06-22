@@ -40,13 +40,14 @@ body
 	background-image: url("pattern2.png");
 	/*background:#f9f9f9 url(../images/white_texture.jpg) repeat top left;*/
 	background-repeat:repeat;
-	background-size:cover;
+	/*background-size:cover;*/
 }
 
 .k
 {
 	text-align: center;
 }
+
 /*.img
 {
 	position:relative;
@@ -528,57 +529,27 @@ p.box2
 	width: 80%;
 	background-color: white;*/
 }
-
-.Login {
-  position: absolute;
-    top: 55%;
-    right: 10%;
-  background-color: #020081;
-    color: #FFFFFF;
-    padding: 20px;
-    font-size: 28px;
-    border: none;
-    cursor: pointer;
-	width: 25%;
-	transition: all 0.5s;
-	display: inline-block;
-	border-radius: 12px;
-	text-align: center; 
-}
-
-.Login span {
-  cursor: pointer;
-  display: inline-block;
-  position: relative;
-  transition: 0.5s;
-}
-.Login a {
-	color: white;
-}
-.Login a:hover
+.DJ
 {
-	color: white;
+position: absolute;
+    top: 25.5%;
+    left: 30%;
+  align: left;
+  display: inline-block;
+  margin: 5px;
+  font-family: Comfortaa;
+  font-size: 18px;
 }
-.Login:hover{
-	background-color: #D65022;
-}
-.Login span:after {
-  content: '»';
-  position: absolute;
-  opacity: 0;
-  top: 0;
-  right: -20px;
-  transition: 0.5s;
-}
-
-.Login:hover span {
-  padding-right: 25px;
-  color:white;
-}
-
-.Login:hover span:after {
-  opacity: 1;
-  right: 0;
+.Klant
+{
+	position: absolute;
+    top: 25.5%;
+    left: 38%;
+  align: left;
+  display: inline-block;
+  margin: 5px;
+  font-family: Comfortaa;
+  font-size: 18px;
 }
 .Gebruik
 {
@@ -1387,7 +1358,7 @@ p.box3
 }
 .Komkommer{
 	position: fixed;
-	bottom: 27%;
+	bottom: 24%;
 	left: 79%;
 	background-color: #020081;
     color: #FFFFFF;
@@ -1437,9 +1408,61 @@ p.box3
   opacity: 1;
   right: 0;
 }
+.Komkommer2{
+	position: fixed;
+	bottom: 24%;
+	left: 11%;
+	background-color: #020081;
+    color: #FFFFFF;
+    padding: 5px;
+    font-size: 15px;
+	text-decoration: none;
+    border: none;
+    cursor: pointer;
+	width: 10%;
+	transition: all 0.5s;
+	display: inline-block;
+	border-radius: 12px;
+	text-align: center; 
+}
+
+.Komkommer2 span {
+  cursor: pointer;
+  display: inline-block;
+  position: relative;
+  transition: 0.5s;
+}
+.Komkommer2 a {
+	color: white;
+}
+.Komkommer2 a:hover
+{
+	color: white;
+}
+.Komkommer2:hover{
+	background-color: #D65022;
+}
+.Komkommer2 span:after {
+  content: '»';
+  position: absolute;
+  opacity: 0;
+  top: 0;
+  right: -20px;
+  transition: 0.5s;
+}
+
+.Komkommer2:hover span {
+  padding-right: 25px;
+  color:white;
+}
+
+.Komkommer2:hover span:after {
+  opacity: 1;
+  right: 0;
+}
 .KnopAgenda {
 	position: fixed;
-	bottom: 27%;
+	bottom: 24%;
 	left: 70%;
 	background-color: #020081;
     color: #FFFFFF;
@@ -1490,7 +1513,7 @@ p.box3
 }
 .Feedback1 {
 	position: fixed;
-	bottom: 27%;
+	bottom: 24%;
 	left: 59%;
 	background-color: #020081;
     color: #FFFFFF;
@@ -1541,7 +1564,7 @@ p.box3
 }
 .Boek {
 	position: fixed;
-	bottom: 27%;
+	bottom: 24%;
 	left: 48%;
 	background-color: #020081;
     color: #FFFFFF;
@@ -1592,7 +1615,7 @@ p.box3
 }
 .Bewerken4 {
 	position: fixed;
-	bottom: 26%;
+	bottom: 22%;
 	right: 11%;
 	background-color: #020081;
     color: #FFFFFF;
@@ -1680,15 +1703,15 @@ p.box3
 }
 */
 .FotoKnop {
-  position: relative;
-  right: 40px;
-  bottom: 30px;
+  position: absolute;
+  left: 79%;
+  bottom: -115%;
   background-color: #020081;
     padding: 8px;
     font-size: 15px;
     border: none;
     cursor: pointer;
-	width: 11%;
+	width: 13%;
 	transition: all 0.5s;
 	display: inline-block;
 	border-radius: 12px;
@@ -1790,14 +1813,14 @@ p.box3
 	position: absolute;
 	top: 29%;
 	left: 13%;
-	/*padding: 20px 15px;*/
 	width: 30%;
-	height:40%;
+	padding: 50px 50px; 
+	line-height: 58px; 
 }
 .Feedback2 {
- position: fixed;
-	bottom: 27%;
-	left: 79%;
+ position: absolute;
+	bottom: 22%;
+	left: 78%;
   background-color: #020081;
     padding: 8px;
     font-size: 15px;
@@ -1857,10 +1880,10 @@ p.box3
    content: "\2605";
    position: absolute;
 }
-box5
+.box5
 {
 	position: absolute;
-	top: 25%;
+	top: 23%;
 	left: 10%;
 	align: center;
 	border: 2px solid #eee;
@@ -1871,3 +1894,91 @@ box5
 	width: 80%;
 	background-color: white;
 }
+.Boeken2Info
+{
+	position: absolute;
+	top: 25%;
+	left: 11%;
+	max-width: 80%;
+	font-family: Comfortaa;
+	font-size: 15px;
+}
+
+.row {
+  max-width: 64rem;
+  margin-left: auto;
+  margin-right: auto; }
+  .row::before, .row::after {
+    content: ' ';
+    display: table; }
+  .row::after {
+    clear: both; }
+  .row.collapse > .column, .row.collapse > .columns {
+    padding-left: 0;
+    padding-right: 0; }
+  .row .row {
+    max-width: none;
+    margin-left: -0.625rem;
+    margin-right: -0.625rem;
+    max-width: none; }
+    @media screen and (min-width: 40em) {
+      .row .row {
+        margin-left: -0.9375rem;
+        margin-right: -0.9375rem; } }
+    .row .row.collapse {
+      margin-left: 0;
+      margin-right: 0; }
+  .row.expanded {
+    max-width: none; }
+    .row.expanded .row {
+      margin-left: auto;
+      margin-right: auto; }
+.column, .columns {
+  width: 100%;
+  float: left;
+  padding-left: 0.625rem;
+  padding-right: 0.625rem; }
+  @media screen and (min-width: 40em) {
+    .column, .columns {
+      padding-left: 20%;
+      padding-right: 0.9375rem; } }
+  .column:last-child:not(:first-child), .columns:last-child:not(:first-child) {
+    float: right; }
+  .column.end:last-child:last-child, .end.columns:last-child:last-child {
+    float: left; }
+
+.column.row.row, .row.row.columns {
+  float: none; }
+  .row .column.row.row, .row .row.row.columns {
+    padding-left: 0;
+    padding-right: 0;
+    margin-left: 0;
+    margin-right: 0; }
+	
+	.heading-primary {
+  color: #00b3ff;
+  text-transform: uppercase; }
+  .heading-underline {
+  position: relative;
+  display: block;
+  margin: auto;
+  margin-bottom: 44px;
+  width: 320px;
+  height: 4px;
+  max-width: 100%;
+  background-color: #00b3ff; }
+  @media screen and (max-width: 39.9375em) {
+    .heading-underline {
+      width: 200px; } }
+
+input[type="text"], textarea {
+  position: relative;
+  display: block;
+  width: 100%;
+  padding: 0 32px;
+  margin-bottom: 32px;
+  line-height: 44px;
+  color: #000000;
+  background-color: rgba(0, 0, 0, 0.1);
+  border: none;
+  outline: none; }
