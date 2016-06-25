@@ -13,6 +13,9 @@
 	<link href="checkbox.css" rel="stylesheet">
 	<link href="index.css" rel="stylesheet">
 	<link rel="stylesheet" type="text/css" href="Menu.css"> 
+	 <link href='https://fonts.googleapis.com/css?family=Ubuntu:400,300' rel='stylesheet' type='text/css'>
+	<link rel="stylesheet" href="tooltip.css">
+
 	
     <title>DJ Bass Home</title>
 
@@ -37,30 +40,7 @@
   </head>
 
   <body>
-   <!-- <nav class="navbar navbar-inverse navbar-fixed-top">
-      <div class="container-fluid">
-        <div class="navbar-header">
-          <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
-            <!--<span class="sr-only">Toggle navigation</span>
-            <span class="icon-bar"></span>
-            <span class="icon-bar"></span>
-            <span class="icon-bar"></span>
-          </button>
-          <a class="navbar-brand" href="index.html">DJ Bass</a>
-        </div>
-        <div id="navbar" class="navbar-collapse collapse">
-          <ul class="nav navbar-nav navbar-right">
-            <li><a href="#">Dashboard</a></li>
-            <li><a href="#">Instellingen</a></li>
-            <li><a href="ProfielDJ.html">Mijn profiel</a></li>
-            <li><a href="F.A.Q.">Help</a></li>
-          </ul>
-          <form class="navbar-form navbar-right">
-            <input type="text" class="form-control" placeholder="Search...">
-          </form>
-        </div>
-      </div>
-    </nav>-->
+   
 <div class="menu">
     <div class="title">MENU</div>
     <ul class="nav">
@@ -82,7 +62,7 @@
         <div class="col-sm-9 col-sm-offset-3 col-md-10 col-md-offset-2 main">
 				<h1 class="Titel">Zoeken</h1>
 
-		<p class = "box3">
+		<p class = "box6">
 		<button class="Zoek" style="vertical-align:middle"><span><a href="kutfilezilla.html">Zoek!</a></span></button>
 		
 		<p class = "Help8"><span class="tool" data-tip="Zoek op de specifieke naam van de DJ." tabindex="1">?</span></p>
@@ -202,37 +182,40 @@
 								<input type="text" class="form-control" placeholder="Plaats">
 							</div>
 							
-							<p class = "Help13"><span class="tool" data-tip="Dit wordt de naam hoe andere gebruikers u zullen zien." tabindex="1">?</span></p>
+							<p class = "Help13"><span class="tool" data-tip="Hier bovenop komt nog de prijs die aan DJBass betaald wordt. De prijs wordt door DJ's zelf bepaald en kan dus verschillen per dag." tabindex="1">?</span></p>
 							<!--<p class = "Help13"><span class="tool" data-tip="Prijs van de DJ per uur (in euro's)." tabindex="1">?</span></p>-->
-							<p class = "Prijs">Prijs:</p>
-							<div class = "Prijs2 style=display: block;">
-								<li class = "check">
-									<div class="checkbox-btn">
-										<input type="checkbox" value="value-1" id="rc3" name="rc3" checked="checked" />
-										<label for="rc3" onclick><5</label>
-									</div>
-								
-									<div class="checkbox-btn">
-										<input type="checkbox" value="value-2" id="rc4" name="rc4" />
-										<label for="rc4" onclick>5-7</label>
-									</div>
-								
-									<div class="checkbox-btn">
-										<input type="checkbox" value="value-2" id="rc4" name="rc4" />
-										<label for="rc4" onclick>7-10</label>
-									</div>
-								
-									<div class="checkbox-btn">
-										<input type="checkbox" value="value-2" id="rc4" name="rc4" />
-										<label for="rc4" onclick>10-15</label>
-									</div>
-								
-									<div class="checkbox-btn">
-										<input type="checkbox" value="value-2" id="rc4" name="rc4" />
-										<label for="rc4" onclick>15></label>
-									</div>
-								</li>
-       
+							<p class = "Prijs">Prijs (in euro's per uur):</p>
+							<div class = "Prijs2">
+								<li>
+								<div class="checkbox-btn">
+									<input type="checkbox" value="value-2" id="rc4" name="rc4" />
+									<label for="rc4" onclick><5</label>
+								</div>
+							</li>
+							<li>
+								<div class="checkbox-btn">
+									<input type="checkbox" value="value-2" id="rc4" name="rc4" />
+									<label for="rc4" onclick>5-10</label>
+								</div>
+							</li>
+							<li>
+								<div class="checkbox-btn">
+									<input type="checkbox" value="value-2" id="rc4" name="rc4" />
+									<label for="rc4" onclick>10-15</label>
+								</div>
+							</li>
+							<li>
+								<div class="checkbox-btn">
+									<input type="checkbox" value="value-2" id="rc4" name="rc4" />
+									<label for="rc4" onclick>15-20</label>
+								</div>
+							</li>
+							<li>
+								<div class="checkbox-btn">
+									<input type="checkbox" value="value-2" id="rc4" name="rc4" />
+									<label for="rc4" onclick>20></label>
+								</div>
+							</li>
 							</div> 
     
         <!--<ul class = "checks">
