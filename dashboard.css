@@ -538,7 +538,7 @@ p.box2
 .DJ
 {
 position: absolute;
-    top: 25.5%;
+    top: 30.5%;
     left: 30%;
   align: left;
   display: inline-block;
@@ -549,7 +549,7 @@ position: absolute;
 .Klant
 {
 	position: absolute;
-    top: 25.5%;
+    top: 30.5%;
     left: 38%;
   align: left;
   display: inline-block;
@@ -669,7 +669,7 @@ position: absolute;
 .WatBenJe
 {
 	position: absolute;
-    top: 25%;
+    top: 30%;
     left: 24%;
   align: left;
   display: inline-block;
@@ -680,7 +680,7 @@ position: absolute;
 .Help1
 {
 	position: absolute;
-    top: 25%;
+    top: 30%;
     left: 49%;
 	font-size: 18px;
 	font-family: Comfortaa;
@@ -690,7 +690,7 @@ position: absolute;
 .Help2
 {
 	position: absolute;
-    top: 33%;
+    top: 38%;
     left: 49%;
 	font-size: 18px;
 	font-family: Comfortaa;
@@ -700,7 +700,7 @@ position: absolute;
 .Help3
 {
 	position: absolute;
-    top: 38%;
+    top: 43%;
     left: 49%;
 	font-size: 18px;
 	font-family: Comfortaa;
@@ -710,7 +710,7 @@ position: absolute;
 .Help4
 {
 	position: absolute;
-    top: 43%;
+    top: 48%;
     left: 49%;
 	font-size: 18px;
 	font-family: Comfortaa;
@@ -720,7 +720,7 @@ position: absolute;
 .Help5
 {
 	position: absolute;
-    top: 33%;
+    top: 38%;
     left: 83%;
 	font-size: 18px;
 	font-family: Comfortaa;
@@ -730,7 +730,7 @@ position: absolute;
 .Help6
 {
 	position: absolute;
-    top: 38%;
+    top: 43%;
     left: 83%;
 	font-size: 18px;
 	font-family: Comfortaa;
@@ -740,7 +740,7 @@ position: absolute;
 .Help7
 {
 	position: absolute;
-    top: 43%;
+    top: 48%;
     left: 83%;
 	font-size: 18px;
 	font-family: Comfortaa;
@@ -753,7 +753,7 @@ input[type=text]:focus {
 .Gebruik2
 {
 	position: absolute;
-    top: 30%;
+    top: 35%;
     left: 23%;
   align: left;
   display: inline-block;
@@ -770,7 +770,7 @@ input[type=text]:focus {
 .gebruik2
 {
 	position: absolute;
-    top: 31%;
+    top: 36%;
     left: 13%;
   align: left;
   display: inline-block;
@@ -787,7 +787,7 @@ input[type=text]:focus {
 .WW2
 {
 	position: absolute;
-    top: 35%;
+    top: 40%;
     left: 23%;
   align: left;
   display: inline-block;
@@ -804,7 +804,7 @@ input[type=text]:focus {
 .ww2
 {
 	position: absolute;
-    top: 36%;
+    top: 41%;
     left: 13%;
   align: left;
   display: inline-block;
@@ -821,7 +821,7 @@ input[type=text]:focus {
 .Herhaal
 {
 	position: absolute;
-    top: 40%;
+    top: 45%;
     left: 23%;
   align: left;
   display: inline-block;
@@ -838,7 +838,7 @@ input[type=text]:focus {
 .herhaal
 {
 	position: absolute;
-    top: 41%;
+    top: 46%;
     left: 13%;
   align: left;
   display: inline-block;
@@ -855,7 +855,7 @@ input[type=text]:focus {
 .Woonplaats
 {
 	position: absolute;
-    top: 30%;
+    top: 35%;
     left: 56%;
   align: left;
   display: inline-block;
@@ -872,7 +872,7 @@ input[type=text]:focus {
 .woonplaats
 {
 	position: absolute;
-    top: 31%;
+    top: 36%;
     left: 50%;
   align: left;
   display: inline-block;
@@ -889,7 +889,7 @@ input[type=text]:focus {
 .Voornaam
 {
 	position: absolute;
-    top: 35%;
+    top: 40%;
     left: 56%;
   align: left;
   display: inline-block;
@@ -906,7 +906,7 @@ input[type=text]:focus {
 .voornaam
 {
 	position: absolute;
-    top: 36%;
+    top: 41%;
     left: 50%;
   align: left;
   display: inline-block;
@@ -923,7 +923,7 @@ input[type=text]:focus {
 .Achternaam
 {
 	position: absolute;
-    top: 40%;
+    top: 45%;
     left: 56%;
   align: left;
   display: inline-block;
@@ -940,7 +940,7 @@ input[type=text]:focus {
 .achternaam
 {
 	position: absolute;
-    top: 41%;
+    top: 46%;
     left: 50%;
   align: left;
   display: inline-block;
@@ -1025,7 +1025,7 @@ p.box3
 {
 	position: absolute;
     top: 37%;
-    left: 17%;
+    left: 23%;
   align: left;
   display: inline-block;
   border-radius: 12px;
@@ -1059,7 +1059,7 @@ p.box3
 {
 	position: absolute;
     top: 63%;
-    left: 17%;
+    left: 23%;
   align: left;
   display: inline-block;
   border-radius: 12px;
@@ -1094,7 +1094,7 @@ p.box3
 {
 	position: absolute;
     top: 30%;
-    left: 56%;
+    left: 62%;
 	display: inline;
   align: left;
   display: inline-block;
@@ -1164,7 +1164,7 @@ p.box3
 {
 	position: absolute;
     top: 63%;
-    left: 56%;
+    left: 62%;
 
   align: left;
   display: block;
@@ -1376,7 +1376,7 @@ p.box3
 	top: 17%;
 	left: 0%;
 }
-.Komkommer{
+.AlgemeneKnop{
 	position: fixed;
 	bottom: 20.5%;
 	left: 79%;
@@ -1394,23 +1394,23 @@ p.box3
 	text-align: center; 
 }
 
-.Komkommer span {
+.AlgemeneKnop span {
   cursor: pointer;
   display: inline-block;
   position: relative;
   transition: 0.5s;
 }
-.Komkommer a {
+.AlgemeneKnop a {
 	color: white;
 }
-.Komkommer a:hover
+.AlgemeneKnop a:hover
 {
 	color: white;
 }
-.Komkommer:hover{
+.AlgemeneKnop:hover{
 	background-color: #D65022;
 }
-.Komkommer span:after {
+.AlgemeneKnop span:after {
   content: '»';
   position: absolute;
   opacity: 0;
@@ -1419,16 +1419,16 @@ p.box3
   transition: 0.5s;
 }
 
-.Komkommer:hover span {
+.AlgemeneKnop:hover span {
   padding-right: 25px;
   color:white;
 }
 
-.Komkommer:hover span:after {
+.AlgemeneKnop:hover span:after {
   opacity: 1;
   right: 0;
 }
-.Komkommer2{
+.AlgemeneKnop2{
 	position: fixed;
 	bottom: 24%;
 	left: 11%;
@@ -1446,23 +1446,23 @@ p.box3
 	text-align: center; 
 }
 
-.Komkommer2 span {
+.AlgemeneKnop2 span {
   cursor: pointer;
   display: inline-block;
   position: relative;
   transition: 0.5s;
 }
-.Komkommer2 a {
+.AlgemeneKnop2 a {
 	color: white;
 }
-.Komkommer2 a:hover
+.AlgemeneKnop2 a:hover
 {
 	color: white;
 }
-.Komkommer2:hover{
+.AlgemeneKnop2:hover{
 	background-color: #D65022;
 }
-.Komkommer2 span:after {
+.AlgemeneKnop2 span:after {
   content: '»';
   position: absolute;
   opacity: 0;
@@ -1471,12 +1471,12 @@ p.box3
   transition: 0.5s;
 }
 
-.Komkommer2:hover span {
+.AlgemeneKnop2:hover span {
   padding-right: 25px;
   color:white;
 }
 
-.Komkommer2:hover span:after {
+.AlgemeneKnop2:hover span:after {
   opacity: 1;
   right: 0;
 }
@@ -2150,7 +2150,7 @@ input[type="text"], textarea {
   border: none;
   outline: none; }
   
-  .Komkommer8{
+  .AlgemeneKnop8{
 	position: fixed;
 	bottom: 24%;
 	left: 79%;
@@ -2168,23 +2168,23 @@ input[type="text"], textarea {
 	text-align: center; 
 }
 
-.Komkommer8 span {
+.AlgemeneKnop8 span {
   cursor: pointer;
   display: inline-block;
   position: relative;
   transition: 0.5s;
 }
-.Komkommer8 a {
+.AlgemeneKnop8 a {
 	color: white;
 }
-.Komkommer8 a:hover
+.AlgemeneKnop8 a:hover
 {
 	color: white;
 }
-.Komkommer8:hover{
+.AlgemeneKnop8:hover{
 	background-color: #D65022;
 }
-.Komkommer8 span:after {
+.AlgemeneKnop8 span:after {
   content: '»';
   position: absolute;
   opacity: 0;
@@ -2193,12 +2193,12 @@ input[type="text"], textarea {
   transition: 0.5s;
 }
 
-.Komkommer8:hover span {
+.AlgemeneKnop8:hover span {
   padding-right: 25px;
   color:white;
 }
 
-.Komkommer8:hover span:after {
+.AlgemeneKnop8:hover span:after {
   opacity: 1;
   right: 0;
 }
