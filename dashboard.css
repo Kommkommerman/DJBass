@@ -38,7 +38,7 @@ body
 	/*background-image: url("Space2.jpg");*/
 	/*background-image: url("17.gif");*/
 	/*background-image: url("pattern2.png");*/
-	background-image: url("Paars4.png");
+	background-image: url("images/Paars4.png");
 	/*background:#f9f9f9 url(../images/white_texture.jpg) repeat top left;*/
 	/*background: transparent url("../images/pattern.png") repeat top left;*/
 	/*background: transparent url("../images/Paars3.png") repeat top left;*/
@@ -59,7 +59,8 @@ body
 }*/
 ul.breadcrumb 
 {
-    padding: 8px 16px;
+    font-family: Comfortaa;
+	padding: 8px 16px;
     list-style: none;
     background-color: transparent;
 	width: 40%;
@@ -289,12 +290,13 @@ p.box1
 	position: relative;
 	left: 5%;
 	top: 47%;
-	align: left;
+	align: center;
 	/*border: 3px solid grey;
 	margin-top: 5%;
 	margin-left: 10%;*/
-	height: 550px;
-	width: 1500px;
+	height: 40em;
+	width: 90em;
+	max-widt: 100%;
 	background-color: transparent;
 }
 .Knop1 {
@@ -1260,6 +1262,17 @@ p.box3
 	left: 37%;
 
 }
+.Ondertitel3
+{ 
+	font-size: 30px;
+	text-align: center;
+	color: #E07D00;
+	font-family: Comfortaa;
+	position: absolute;
+	top: 17%;
+	left: 35%;
+
+}
 .Freek
 {
 	border-radius: 20px;
@@ -1430,7 +1443,7 @@ p.box3
 }
 .AlgemeneKnop2{
 	position: fixed;
-	bottom: 24%;
+	bottom: 20.5%;
 	left: 11%;
 	background-color: #020081;
     color: #FFFFFF;
@@ -2050,14 +2063,14 @@ p.box3
 .box5
 {
 	position: absolute;
-	top: 25%;
+	top: 23%;
 	left: 10%;
 	align: center;
 	border: 2px solid #eee;
 	border-radius: 12px;
 	/*margin-top: 5%;
 	margin-left: 10%;*/
-	height: 55%;
+	height: 57%;
 	width: 80%;
 	background-color: white;
 }
@@ -2152,7 +2165,7 @@ input[type="text"], textarea {
   
   .AlgemeneKnop8{
 	position: fixed;
-	bottom: 24%;
+	bottom: 20.5%;
 	left: 79%;
 	background-color: #020081;
     color: #FFFFFF;
@@ -2229,4 +2242,10 @@ p.box7
 	height: 65%;
 	width: 80%;
 	background-color: white;
+}
+.demoPicker
+{
+	position: fixed;
+	top: 20%;
+	left: 30%;
 }
