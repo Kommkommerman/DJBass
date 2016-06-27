@@ -987,6 +987,7 @@ p.box3
   cursor: pointer;
   margin: 5px;
   font-family: Comfortaa;
+  max-width: 9%;
 }
 .Naam2
 {
@@ -1004,6 +1005,7 @@ p.box3
   cursor: pointer;
   margin: 5px;
   font-family: Comfortaa;
+  max-width: 25%;
 }
 
 .Leeftijd
@@ -2243,9 +2245,19 @@ p.box7
 	width: 80%;
 	background-color: white;
 }
-.demoPicker
+.KleineAgenda
 {
-	position: fixed;
+	position: static;
 	top: 20%;
-	left: 30%;
+	left: 50%;
+	
+}
+.Extra
+{
+	position: absolute;
+	top: 19.5%;
+	left: 0%;
+	width: 30%;
+	padding: 50px 50px; 
+	line-height: 58px; 
 }
