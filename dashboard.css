@@ -39,12 +39,13 @@ body
 	/*background-image: url("17.gif");*/
 	/*background-image: url("pattern2.png");*/
 	background-image: url("images/Paars4.png");
+	background-image: url("images/FestivalPaars.jpg");
 	/*background:#f9f9f9 url(../images/white_texture.jpg) repeat top left;*/
 	/*background: transparent url("../images/pattern.png") repeat top left;*/
 	/*background: transparent url("../images/Paars3.png") repeat top left;*/
 	/*background: url("armin.jpg") center bottom no-repeat, url("Paars3.png") left top no-repeat;*/
-	background-repeat:repeat;
-	/*background-size:cover;*/
+	background-repeat:no-repeat;
+	background-size:cover;
 }
 
 .k
@@ -540,8 +541,8 @@ p.box2
 .DJ
 {
 position: absolute;
-    top: 30.5%;
-    left: 30%;
+    top: 30.4%;
+    left: 33%;
   align: left;
   display: inline-block;
   margin: 5px;
@@ -551,7 +552,7 @@ position: absolute;
 .Klant
 {
 	position: absolute;
-    top: 30.5%;
+    top: 30.4%;
     left: 38%;
   align: left;
   display: inline-block;
@@ -702,7 +703,7 @@ position: absolute;
 .Help3
 {
 	position: absolute;
-    top: 43%;
+    top: 48%;
     left: 49%;
 	font-size: 18px;
 	font-family: Comfortaa;
@@ -712,7 +713,7 @@ position: absolute;
 .Help4
 {
 	position: absolute;
-    top: 48%;
+    top: 58%;
     left: 49%;
 	font-size: 18px;
 	font-family: Comfortaa;
@@ -732,7 +733,7 @@ position: absolute;
 .Help6
 {
 	position: absolute;
-    top: 43%;
+    top: 48%;
     left: 83%;
 	font-size: 18px;
 	font-family: Comfortaa;
@@ -742,7 +743,7 @@ position: absolute;
 .Help7
 {
 	position: absolute;
-    top: 48%;
+    top: 58%;
     left: 83%;
 	font-size: 18px;
 	font-family: Comfortaa;
@@ -789,7 +790,7 @@ input[type=text]:focus {
 .WW2
 {
 	position: absolute;
-    top: 40%;
+    top: 45%;
     left: 23%;
   align: left;
   display: inline-block;
@@ -806,7 +807,7 @@ input[type=text]:focus {
 .ww2
 {
 	position: absolute;
-    top: 41%;
+    top: 46%;
     left: 13%;
   align: left;
   display: inline-block;
@@ -823,7 +824,7 @@ input[type=text]:focus {
 .Herhaal
 {
 	position: absolute;
-    top: 45%;
+    top: 55%;
     left: 23%;
   align: left;
   display: inline-block;
@@ -840,7 +841,7 @@ input[type=text]:focus {
 .herhaal
 {
 	position: absolute;
-    top: 46%;
+    top: 56%;
     left: 13%;
   align: left;
   display: inline-block;
@@ -854,7 +855,7 @@ input[type=text]:focus {
   margin: 5px;
   font-family: Comfortaa;
 }
-.Woonplaats
+.Mail
 {
 	position: absolute;
     top: 35%;
@@ -871,7 +872,7 @@ input[type=text]:focus {
   margin: 5px;
   font-family: Comfortaa;
 }
-.woonplaats
+.mail
 {
 	position: absolute;
     top: 36%;
@@ -891,7 +892,7 @@ input[type=text]:focus {
 .Voornaam
 {
 	position: absolute;
-    top: 40%;
+    top: 45%;
     left: 56%;
   align: left;
   display: inline-block;
@@ -908,7 +909,7 @@ input[type=text]:focus {
 .voornaam
 {
 	position: absolute;
-    top: 41%;
+    top: 46%;
     left: 50%;
   align: left;
   display: inline-block;
@@ -925,7 +926,7 @@ input[type=text]:focus {
 .Achternaam
 {
 	position: absolute;
-    top: 45%;
+    top: 55%;
     left: 56%;
   align: left;
   display: inline-block;
@@ -942,7 +943,7 @@ input[type=text]:focus {
 .achternaam
 {
 	position: absolute;
-    top: 46%;
+    top: 55%;
     left: 50%;
   align: left;
   display: inline-block;

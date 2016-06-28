@@ -93,20 +93,20 @@ p {
 
 /*SECTION IMAGES*/
 #title {
-  background-image: url("Festival2.jpg");
+  background-image: url("images/Festival2.jpg");
   background-attachment: fixed;  
 }
 #section1{
-  background-image: url("Festival1.jpg");
+  background-image: url("images/Festival1.jpg");
   transform: translateZ(-1px) scale(2);
   z-index:-1;
 }
 #section2 {
-  background-image: url("Festival3.jpg");
+  background-image: url("images/Festival3.jpg");
   background-attachment: fixed;
 }
 #section3{
-  background-image: url("Festival4.jpg");
+  background-image: url("images/Festival4.jpg");
   transform: translateZ(-1px) scale(2);
   z-index:-1;
 }
