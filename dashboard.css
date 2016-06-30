@@ -303,8 +303,8 @@ p.box1
 
 .Knop1 {
   position: absolute;
-    top: 130px;
-    left: 190px;
+    top: 24.5%;
+    left: 20%;
   display: inline-block;
   border-radius: 12px;
   background-color: #020081;
@@ -351,8 +351,8 @@ p.box1
 
 .Knop2 {
   position: absolute;
-    top: 130px;
-    right: 190px;
+    top: 24.5%;
+    right: 0%;
   display: inline-block;
   border-radius: 12px;
   background-color: #D65022;
@@ -399,8 +399,8 @@ p.box1
 
 .Knop3 {
   position: absolute;
-    bottom: 130px;
-    left: 190px;
+    bottom: 24.5%;
+    left: 20%;
   display: inline-block;
   border-radius: 12px;
   background-color: #D65022;
@@ -448,8 +448,8 @@ p.box1
 
 .Knop4 {
 	position: absolute;
-    bottom: 130px;
-    right: 190px;
+    bottom: 24.5%;
+    right: 0%;
 	background-color: #020081;
     color: #FFFFFF;
     padding: 20px;
@@ -729,7 +729,9 @@ p.box2
 	margin-left: 10%;*/
 	height: 55%;
 	width: 80%;
-	background-color: white;
+	font-size: 20px;
+	font-family: Comfortaa;
+	background-color: rgba(265, 265, 265, 0.7);
 }
 .DJ
 {
@@ -1162,7 +1164,9 @@ p.box3
 	margin-left: 10%;*/
 	height: 55%;
 	width: 80%;
-	background-color: white;
+	font-size: 20px;
+	font-family: Comfortaa;
+	background-color: rgba(265, 265, 265, 0.7);
 }
 
 .Naam
@@ -1440,7 +1444,7 @@ p.box3
 { 
 	font-size: 30px;
 	text-align: center;
-	color: #E07D00;
+	color: #44006B;
 	font-family: Comfortaa;
 	position: absolute;
 	top: 19%;
@@ -1451,7 +1455,7 @@ p.box3
 { 
 	font-size: 30px;
 	text-align: center;
-	color: #E07D00;
+	color: #44006B;
 	font-family: Comfortaa;
 	position: absolute;
 	top: 19%;
@@ -1486,8 +1490,9 @@ p.box3
 	height: 30%;
 	width: 10%;
 	border-style: solid;
-	border-color: grey;
+	border-color: white;
     border-width: 3px;
+	background-color: rgba(265, 265, 265, 0.7);
 }
 .Vinden
 {
@@ -2268,7 +2273,7 @@ p.box3
 	margin-left: 10%;*/
 	height: 57%;
 	width: 80%;
-	background-color: white;
+	background-color: rgba(265, 265, 265, 0.7);
 }
 .Boeken2Info
 {
@@ -2423,7 +2428,7 @@ p.box6
 	margin-left: 10%;*/
 	height: 75%;
 	width: 80%;
-	background-color: white;
+	background-color: rgba(265, 265, 265, 0.7);
 }
 p.box7 
 {
@@ -2437,7 +2442,7 @@ p.box7
 	margin-left: 10%;*/
 	height: 65%;
 	width: 80%;
-	background-color: white;
+	background-color: rgba(265, 265, 265, 0.7);
 }
 .KleineAgenda
 {

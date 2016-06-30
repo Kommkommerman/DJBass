@@ -13,13 +13,12 @@
 body
 {
 	margin:0;
-	font-family:'Muli-Reg'
 }
 .menu
 {
 	font-weight:100;
-	background:#efefef;
-	width:10%;
+	background-color: rgba(224, 125, 0, 0.8);
+	width:13%;
 	height:100%;
 	padding-left:50px;
 	position:fixed;
@@ -31,7 +30,8 @@ body
 	left:-130px;
 	transition:all .3s;
 	-webkit-transition:all .3s;
-	color:#222
+	color:#44006B;
+	font-family: Comfortaa;
 }
 .menu:hover,.menu:focus
 {
@@ -46,9 +46,9 @@ body
 	-ms-transform:translateY(-50%);
 	transform:translateY(-50%);
 	transform:rotate(90deg);
-	right:10px;
+	right:13px;
 	font-weight:800;
-	font-size:15px
+	font-size:35px
 }
 .menu .nav
 {
