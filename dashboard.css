@@ -352,7 +352,7 @@ p.box1
 .Knop2 {
   position: absolute;
     top: 24.5%;
-    right: 0%;
+    right: 5%;
   display: inline-block;
   border-radius: 12px;
   background-color: #D65022;
@@ -449,7 +449,7 @@ p.box1
 .Knop4 {
 	position: absolute;
     bottom: 24.5%;
-    right: 0%;
+    right: 5%;
 	background-color: #020081;
     color: #FFFFFF;
     padding: 20px;
