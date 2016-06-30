@@ -38,8 +38,7 @@ body
 	/*background-image: url("Space2.jpg");*/
 	/*background-image: url("17.gif");*/
 	/*background-image: url("pattern2.png");*/
-	background-image: url("images/Paars4.png");
-	background-image: url("images/FestivalPaars.jpg");
+	background-image: url("images/Kleur.jpg");
 	/*background:#f9f9f9 url(../images/white_texture.jpg) repeat top left;*/
 	/*background: transparent url("../images/pattern.png") repeat top left;*/
 	/*background: transparent url("../images/Paars3.png") repeat top left;*/
@@ -66,6 +65,7 @@ ul.breadcrumb
     background-color: transparent;
 	width: 40%;
 	color: white;
+	margin-left: 14%;
 }
 ul.breadcrumb li 
 {
@@ -300,6 +300,7 @@ p.box1
 	max-widt: 100%;
 	background-color: transparent;
 }
+
 .Knop1 {
   position: absolute;
     top: 130px;
@@ -491,7 +492,199 @@ p.box1
   opacity: 1;
   right: 10;
 }
+/*
+.Knop1 {
+  position: relative;
+    top: 25%;
+    left: 25%;
+  display: inline-block;
+  border-radius: 12px;
+  background-color: #020081;
+  border: none;
+  color: white;
+  text-align: center;
+  font-size: 28px;
+  padding: 20px;
+  width: 25%;
+  transition: all 0.5s;
+  cursor: pointer;
+  margin: 5px;
+}
 
+.Knop1 span {
+  cursor: pointer;
+  display: inline-block;
+  position: relative;
+  transition: 0.5s;
+}
+.Knop1 a {
+	color: white;
+}
+.Knop1 span:after {
+  content: '»';
+  position: absolute;
+  opacity: 0;
+  top: 0;
+  right: -20px;
+  transition: 0.5s;
+}
+
+.Knop1:hover span {
+  padding-right: 25px;
+}
+
+.Knop1:hover span:after {
+  opacity: 1;
+  right: 30;
+}
+.Knop1:hover{
+	background-color: #D65022;
+}
+
+.Knop2 {
+  position: relative;
+    left: 25%;
+    top: 25%;
+  display: inline-block;
+  border-radius: 12px;
+  background-color: #D65022;
+  border: none;
+  color: #FFFFFF;
+  text-align: center;
+  font-size: 28px;
+  padding: 20px;
+  width: 25%;
+  transition: all 0.5s;
+  cursor: pointer;
+  margin: 5px;
+}
+
+.Knop2 span {
+  cursor: pointer;
+  display: inline-block;
+  position: relative;
+  transition: 0.5s;
+}
+.Knop2 a {
+	color: white;
+}
+.Knop2 span:after {
+  content: '»';
+  position: absolute;
+  opacity: 0;
+  top: 0;
+  right: -20px;
+  transition: 0.5s;
+}
+
+.Knop2:hover span {
+  padding-right: 25px;
+}
+
+.Knop2:hover span:after {
+  opacity: 1;
+  right: 30;
+}
+.Knop2:hover{
+	background-color: #020081;
+}
+
+.Knop3 {
+ position: relative;
+    left: -27%;
+    top: 50%;
+  display: inline-block;
+  border-radius: 12px;
+  background-color: #D65022;
+  border: none;
+  color: #FFFFFF;
+  text-align: center;
+  font-size: 28px;
+  padding: 20px;
+  width: 25%;
+  transition: all 0.5s;
+  cursor: pointer;
+  margin: 5px;
+}
+
+.Knop3 span {
+  cursor: pointer;
+  display: inline-block;
+  position: relative;
+  transition: 0.5s;
+}
+.Knop3 a {
+	color: white;
+}
+.Knop3 span:after {
+  content: '»';
+  position: absolute;
+  opacity: 0;
+  top: 0;
+  right: -20px;
+  transition: 0.5s;
+}
+
+.Knop3:hover span {
+  padding-right: 25px;
+}
+
+.Knop3:hover span:after {
+  opacity: 1;
+  right: 30;
+}
+.Knop3:hover{
+	background-color: #020081;
+}
+
+
+.Knop4 {
+ position: relative;
+    left: 51%;
+    top: 38%;
+	background-color: #020081;
+    color: #FFFFFF;
+    padding: 20px;
+    font-size: 28px;
+    border: none;
+    cursor: pointer;
+	width: 25%;
+	transition: all 0.5s;
+	display: inline-block;
+	border-radius: 12px;
+	text-align: center; 
+}
+
+.Knop4 span {
+  cursor: pointer;
+  display: inline-block;
+  position: relative;
+  transition: 0.5s;
+}
+.Knop4 a {
+	color: white;
+}
+.Knop4:hover{
+	background-color: #D65022;
+}
+.Knop4 span:after {
+  content: '»';
+  position: absolute;
+  opacity: 0;
+  top: 0;
+  right: -20px;
+  transition: 0.5s;
+}
+
+.Knop4:hover span {
+  padding-right: 25px;
+}
+
+.Knop4:hover span:after {
+  opacity: 1;
+  right: 10;
+}
+*/
 .dropdown {
     position: relative;
     display: inline-block;
@@ -563,8 +756,8 @@ position: absolute;
 .Gebruik
 {
 	position: absolute;
-    top: 40%;
-    left: 20%;
+    top: 44.5%;
+    left: 17.5%;
   align: left;
   display: inline-block;
   border-radius: 12px;
@@ -579,8 +772,8 @@ position: absolute;
 .WW
 {
 	position: absolute;
-    top: 45%;
-    left: 20%;
+    top: 49.5%;
+    left: 17.5%;
   align: left;
   display: inline-block;
   border-radius: 12px;
